@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b9b87aa07fe2831493ff9c5a",
+  "owner": "xw8fcne9",
+  "repo": "page-df78f0545d1cbbd9f54fdaff",
+  "title": "Eden",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "df78f0545d1cbbd9f54fdaff",
+      "a": "Eden",
+      "b": "机场官网线路发布页",
+      "entity": "Eden",
+      "brand": "Eden",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d8dda89107aef5a45d02526c39cad83b1517877dd5dcaa6ef7c0aa106fee9d77",
+      "content": {
+        "primary_entity": "Eden",
+        "keyword1": "Eden",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑客户端：Windows 可选 Clash Verge，macOS 可选 ClashX，Android 可选 v2rayNG 或 Clash Meta，iOS 可选 Shadowrocket、Stash 或 Quantumult X，路由器可刷 OpenWrt 配合 PassWall。",
+          "AI_CLIENTS_TITLE": "按设备选择对应客户端",
+          "AI_CLOSING_TEXT": "根据自己的设备在线时长挑选合适流量档位，先试用月付再决定是否转年付。",
+          "AI_CLOSING_TITLE": "从基础版开始体验",
+          "AI_DESCRIPTION": "，Eden 提供三档订阅方案，覆盖轻量浏览到团队多设备接入需求。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备并配有 IPLC 专线节点；团队版每月 1000GB，支持 20 台设备与定制路由。客户端按 Windows、macOS、Android、iOS 和路由器区分，选好设备后依照对应文档导入订阅地址即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB/3 台设备，适合手机或笔记本轻度使用。旗舰版每月 300GB/5 台设备，增加 IPLC 专线节点，更适合游戏和流媒体。团队版每月 1000GB/20 台设备，适合多人协作。",
+          "AI_FAQ_ANSWER_2": "在支持 Clash 的客户端里订阅地址只需粘贴一次，客户端会自动同步更新，新增节点与线路变化会随订阅自动刷新，无需重复手动添加。",
+          "AI_FAQ_ANSWER_3": "套餐对同时在线设备数有区分：基础版 3 台、旗舰版 5 台、团队版 20 台。可在不同设备上分别安装客户端登录同一订阅，超出数量会提示断开。",
+          "AI_FAQ_ANSWER_4": "月付适合临时或短期需求，年付折合每月更低，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。有长期使用计划时年付更划算。",
+          "AI_FAQ_ANSWER_5": "修改订阅配置后重新在客户端导入更新即可。如果仅节点切换，客户端刷新订阅就能同步到最新线路，不需要重新购买或重新注册账号。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐在流量和设备数上有什么区别？",
+          "AI_FAQ_QUESTION_2": "订阅地址导入客户端后需要重复添加吗？",
+          "AI_FAQ_QUESTION_3": "同一账号能在多少台设备上同时使用？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_5": "更换设备或修改订阅配置后需要重新购买吗？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量档位、设备数量和线路类型三个角度选择 Eden 订阅方案。",
+          "AI_FEATURES_TITLE": "按使用需求选择套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按日常浏览、追剧或多人共享区分档位。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台，手机、平板与电脑可按需要在额度内同时在线。",
+          "AI_FEATURE_TEXT_3": "旗舰版配备 IPLC 专线节点并针对游戏加速优化，团队版提供 VIP 高带宽节点与定制路由选项。",
+          "AI_FEATURE_TITLE_1": "流量按需选择",
+          "AI_FEATURE_TITLE_2": "多设备同时在线",
+          "AI_FEATURE_TITLE_3": "线路按场景区分",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再按客户端文档完成订阅导入。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "Eden 提供基础版、旗舰版和团队版三档订阅，覆盖从个人轻量使用到团队多设备接入的不同场景。选择套餐后按设备类型安装对应客户端，导入订阅地址即可开始使用。",
+          "AI_HERO_SUBTITLE": "Eden 订阅方案按需配置",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "客户端覆盖多类设备",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线",
+          "AI_PLANS_INTRO": "基础版每月 100GB 适合轻度使用，旗舰版每月 300GB 增加 IPLC 专线，团队版每月 1000GB 支持定制路由，可按年付节省开支。",
+          "AI_PLANS_TITLE": "套餐对比与年付方案",
+          "AI_STEP_TEXT_1": "结合日常流量、同时在线设备数和是否需要专线节点，在基础版、旗舰版和团队版之间做选择。",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由器等设备类型，查看对应系统所需的客户端及安装方式。",
+          "AI_STEP_TEXT_3": "在客户端中粘贴订阅地址，完成导入后按客户端文档配置规则与代理选项。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "Eden 订阅方案与客户端配置"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wnlfflb.cn",
+    "host": "wnlfflb.cn"
+  },
+  "file_hashes": {
+    "index.html": "260900ffdc732aaa77a469d95dc2a66c977feeb6c12c273bf0f231dbcbc80a14",
+    "sitemap.xml": "6463bdc059cf15dcf8ea5414bc2fe4d8fbce1dd63a5edfba0963fef2645dd5ca",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "782c17cda2019a6a290287ebac384827afdce648201d74c7a3e3b653df8d5118",
+    "robots.txt": "e1dd2a523be942efed82a4e0103276dc7772709c805e0074adfd7639b8b466f9",
+    "9d142697c118f98bc5164a0d42b4bdc4.txt": "51cffd60b47c82b13cff17a63fb583cae7ed5cda6163cad520ecfef9af324632"
+  },
+  "revision": "c11444a01987ee41e1178c78307d5f4c7b876b5dbfd969c429b86bf9dbca088c"
+}
